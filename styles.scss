@@ -41,3 +41,18 @@ p {
     text-decoration: line-through;
     color: #bfbfbf;
 }
+
+.description {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+@media print {
+    body {
+        background-color: white;
+    }
+
+    .retracted {
+        display: none;
+    }
+}

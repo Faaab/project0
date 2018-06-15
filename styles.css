@@ -37,4 +37,19 @@ p {
   color: #bfbfbf;
 }
 
+.description {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+@media print {
+  body {
+    background-color: white;
+  }
+
+  .description {
+    display: none;
+  }
+}
+
 /*# sourceMappingURL=styles.css.map */
