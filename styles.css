@@ -17,11 +17,14 @@ p {
 #wiki-quote p {
   color: #8c8c8c;
 }
-#wiki-quote a {
+
+a {
   color: #00e699;
 }
 
 #image-section {
+  margin-top: 2em;
+  margin-bottom: 3em;
   margin: auto;
   width: 80%;
 }
