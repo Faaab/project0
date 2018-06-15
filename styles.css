@@ -2,7 +2,7 @@ body {
   background-color: #ffe6cc;
 }
 
-h1 {
+h1, h3 {
   text-align: center;
 }
 
@@ -10,6 +10,10 @@ p {
   text-align: justify;
 }
 
+#wiki-quote {
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
 #wiki-quote p {
   color: #8c8c8c;
 }
@@ -47,7 +51,7 @@ p {
     background-color: white;
   }
 
-  .description {
+  .retracted {
     display: none;
   }
 }
