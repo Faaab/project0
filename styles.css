@@ -14,7 +14,7 @@ p {
   margin-top: 2em;
   margin-bottom: 3em;
 }
-#wiki-quote p {
+#wiki-quote p, #wiki-quote dl {
   color: #8c8c8c;
 }
 
