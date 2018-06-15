@@ -55,6 +55,40 @@ a {
   .retracted {
     display: none;
   }
+
+  iframe {
+    display: none;
+  }
+}
+@media (max-width: 575px) {
+  iframe {
+    width: 300 px;
+    height: 169px;
+  }
+}
+@media (min-width: 576px) {
+  iframe {
+    width: 500px;
+    height: 281px;
+  }
+}
+@media (min-width: 768px) {
+  iframe {
+    width: 700px;
+    height: 394px;
+  }
+}
+@media (min-width: 992px) {
+  iframe {
+    width: 900px;
+    height: 506px;
+  }
+}
+@media (min-width: 1200px) {
+  iframe {
+    width: 1100px;
+    height: 619px;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */
