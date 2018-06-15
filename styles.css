@@ -5,5 +5,18 @@ p {
 #wiki-quote p {
   color: #8c8c8c;
 }
+#wiki-quote a {
+  color: #66ffcc;
+}
+
+#image-section {
+  width: 80%;
+}
+#image-section p {
+  text-align: center;
+}
+#image-section img {
+  margin-left: 10%;
+}
 
 /*# sourceMappingURL=styles.css.map */
