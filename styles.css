@@ -32,4 +32,9 @@ p {
   font-weight: bold;
 }
 
+.retracted {
+  text-decoration: line-through;
+  color: #bfbfbf;
+}
+
 /*# sourceMappingURL=styles.css.map */
